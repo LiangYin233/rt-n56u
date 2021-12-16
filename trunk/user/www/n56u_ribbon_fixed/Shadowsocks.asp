@@ -1602,6 +1602,7 @@ setTimeout('document.getElementById("btn_ctime").style.display="none";',1000);
 																	(114.114.114.114)</option>
 																<option value="114.114.115.115#53">Oversea Mode DNS-1
 																	(114.114.115.115)</option>
+																<option value="127.0.0.1#5335">使用本地端口为5335的DNS服务 (由 LiangYin 补充在 Padavan 版本)</option>
 															</select>
 														</td>
 													</tr>
